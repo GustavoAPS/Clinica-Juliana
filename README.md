@@ -20,3 +20,13 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+
+
+-----------------------------------------------------------------------------
+Só tirar a parte de "especialidades" 
+
+A cor de fundo poderia ser um creme, no mesmo creme que tem na logo
+
+E as fotos estão esticadas
+
+
